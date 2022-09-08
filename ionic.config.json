@@ -1,0 +1,7 @@
+{
+  "name": "artnic-attendance-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
